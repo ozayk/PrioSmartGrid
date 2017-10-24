@@ -1,0 +1,3 @@
+go build
+go build ../tserver/
+go build ../tclient/
