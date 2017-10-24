@@ -11,6 +11,11 @@ This is the software prototype that accompanies the research paper:
       by Henry Corrigan-Gibbs and Dan Boneh
       NSDI 2017
 
+
+EDITED: Building up on the Prio code from "https://github.com/henrycg/prio" to implement it on Smart Grid.
+-ozayk
+
+
 For more information and a link to the paper, please visit:
   https://crypto.stanford.edu/prio/
 
