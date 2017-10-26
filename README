@@ -1,3 +1,7 @@
+
+EDITED: Building up on the Prio code from "https://github.com/henrycg/prio" to implement it on Smart Grid.
+-ozayk
+
 =============================================================================
 =                         !!!!! WARNING !!!!!                               =
 =    This is NOT production-ready bullet-proof software, and is full of     =
@@ -10,10 +14,6 @@ This is the software prototype that accompanies the research paper:
     "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
       by Henry Corrigan-Gibbs and Dan Boneh
       NSDI 2017
-
-
-EDITED: Building up on the Prio code from "https://github.com/henrycg/prio" to implement it on Smart Grid.
--ozayk
 
 
 For more information and a link to the paper, please visit:
